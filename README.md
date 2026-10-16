@@ -4,7 +4,7 @@ Atlanta-based product manager and serial entrepreneur since 2005. B.S. Applied P
 
 Building **Apsis**: Open-source tools to promote AI literacy and workforce upskilling. Question Everything. Build the Future. Together.
 
-- 🔧 Local-first AI agents & assistants (Memochat, LocalGravity, Ollama Agentic IDE)
+- 🔧 Local-first AI agents & assistants (Familiar, in development: a local reflex-and-memory brain for small devices; Memochat; Ollama Agentic IDE)
 - 🤖 Robotics & hardware integration experiments
 - 🎮 Educational demos like AI Maze Navigator
 
