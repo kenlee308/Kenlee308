@@ -8,4 +8,4 @@ Building **Apsis**: Open-source tools to promote AI literacy and workforce upski
 - 🤖 Robotics & hardware integration experiments
 - 🎮 Educational demos like AI Maze Navigator
 
-🔗 [Apsis Portfolio](https://kenlee308.github.io/apsis/) | [YouTube @kVarfpv](https://youtube.com/@kVarfpv) | [Medium @apsis.g9](https://medium.com/@apsis.g9) | [LinkedIn](https://linkedin.com/in/kenny-lee-75841319)
+🔗 [Apsis Portfolio](https://kenlee308.github.io/apsis/) | [YouTube @kVarfpv](https://youtube.com/@kVarfpv) | [Medium @apsis.g9](https://medium.com/@apsis.g9) | [LinkedIn](https://linkedin.com/in/kenlee308)
